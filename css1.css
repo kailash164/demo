@@ -1,0 +1,17 @@
+.Button{
+border-left: 4px solid aqua;
+color:black;
+
+}
+#Bk{
+  background-image:url(Delete.png);
+  background-repeat: no-repeat;
+  padding-top:110px;
+  background-size: cover;
+  height:100%;
+  width:99%;
+
+}
+h1{
+  color: aqua;
+}
